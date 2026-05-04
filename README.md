@@ -185,9 +185,4 @@ If you adapt PedalPilot for another MIDI foot controller, please share your setu
 
 Created by **Steve Zydek / Wavefiler**
 
----
-
-## License
-
-MIT License recommended.
 
