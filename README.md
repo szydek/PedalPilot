@@ -6,6 +6,8 @@
 
 ## Overview
 
+![PedalPilot UI](pedalpilot_1.png)
+
 PedalPilot is a **Max for Live MIDI device** designed to turn a simple MIDI foot controller into a powerful hands-free Ableton Live Session navigator.
 
 Built around the idea of **temporal gestures** (tap / hold / long hold), PedalPilot allows a limited number of foot switches to perform multiple context-aware actions—without requiring simultaneous pedal presses.
@@ -184,5 +186,7 @@ If you adapt PedalPilot for another MIDI foot controller, please share your setu
 ## Credits
 
 Created by **Steve Zydek / Wavefiler**
+
+![PedalPilot UI](pedalpilot_2.png)
 
 
